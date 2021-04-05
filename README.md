@@ -3,17 +3,20 @@
 ### Steps to edit and run the code
 Step-1: Write a verilog code
 
-```$ gedit hello1.v
+```
+$ gedit hello1.v
 ```
 
 Step-2: Compiling a verilog code with icarus verilog
 
-```$ iverilog hello1.v
+```
+$ iverilog hello1.v
 ```
 
 Step-3: run the code
 
-```$ vvp hello1.v
+```
+$ vvp hello1.v
 ```
 
 ---

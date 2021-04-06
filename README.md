@@ -16,7 +16,7 @@ $ iverilog hello1.v
 Step-3: run the code
 
 ```
-$ vvp hello1.v
+$ vvp a.out
 ```
 
 ---

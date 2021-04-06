@@ -1,7 +1,7 @@
 // Implementation of UART Receiver
 
-module uart_rx
-	#(parameter CLKS_PER_BIT)
+module uart_rx;
+	# (parameter CLKS_PER_BIT)
 	(
 	input		i_Clock,
 	input		i_Rx_Serial,
@@ -15,8 +15,8 @@ module uart_rx
 	parameter s_RX_STOP_BIT		= 3'b011;
 	parameter s_CLEANUP		= 3'b100;
 
-	reg r_Rx_Data-R		= 1'b1;
-	reg rrR_Rx_Data		= 1'b1;
+	reg r_Rx_Data_R		= 1'b1;
+	reg r_Rx_Data		= 1'b1;
 
 	reg [7:0] r_Clock_Count	= 0;
 	reg [2:0] r_Bit_Index	= 0; 

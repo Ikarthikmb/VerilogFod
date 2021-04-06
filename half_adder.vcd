@@ -1,0 +1,24 @@
+$date
+	Tue Apr  6 11:06:02 2021
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module half_adder $end
+$var wire 1 ! i_bit1 $end
+$var wire 1 " i_bit2 $end
+$var wire 1 # o_carry $end
+$var wire 1 $ o_sum $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+x$
+x#
+z"
+z!
+$end
+#50

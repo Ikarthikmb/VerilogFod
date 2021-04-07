@@ -36,7 +36,7 @@ In digital logic, an inverter or NOT gate is a logic gate which implements logic
 
 3. basic gates
 
-["image basic gates"](https://github.com/ikarthikmb/VerilogFod/gates/basic_gates_waveform.png)
+["image basic gates"](https://raw.githubusercontent.com/Ikarthikmb/VerilogFod/main/gates/basic_gates_waveform.png)
 
 AND: Outputs HIGH when both inputs are HIGH.
 

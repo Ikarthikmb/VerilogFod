@@ -1,0 +1,64 @@
+$date
+	Wed Apr  7 16:31:47 2021
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module tb_basic_gates $end
+$var reg 1 ! A $end
+$var reg 1 " B $end
+$scope module basic_gates $end
+$var wire 1 ! A $end
+$var wire 1 " B $end
+$var wire 1 # o_and $end
+$var wire 1 $ o_nand $end
+$var wire 1 % o_nor $end
+$var wire 1 & o_or $end
+$var wire 1 ' o_xor $end
+$var wire 1 ( o_xnor $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+x(
+x'
+x&
+x%
+x$
+x#
+x"
+x!
+$end
+#20
+1$
+1%
+0'
+1(
+0#
+0&
+0!
+0"
+#40
+0%
+1&
+0(
+1'
+1"
+#60
+0(
+1!
+1'
+0"
+#80
+0$
+1%
+1#
+0&
+0'
+1(
+1"
+#100

@@ -68,12 +68,16 @@ $ vvp a.out
 
 2. inverter
 
-![inverter waveform image](https://raw.githubusercontent.com/Ikarthikmb/VerilogFod/main/inverter/inverter_tb_wave.png)
+Block diagram | Timing diagram
+---| ---
+![](https://electricalacademia.com/wp-content/uploads/2018/03/NOT-Gate.png)	| ![inverter waveform image](https://raw.githubusercontent.com/Ikarthikmb/VerilogFod/main/inverter/inverter_tb_wave.png)
 In digital logic, an inverter or NOT gate is a logic gate which implements logical negation. 
 
 3. basic gates
 
-![basic gates waveform image](https://raw.githubusercontent.com/Ikarthikmb/VerilogFod/main/gates/basic_gates_waveform.png)
+Schematic Diagram	| Timing 
+--- | ---
+![](https://2.bp.blogspot.com/_I5fPUj_jtvI/SdWBWD7mW6I/AAAAAAAAACI/g2jDvqQQ-WE/w1200-h630-p-k-no-nu/BasicGates.png)	| ![basic gates waveform image](https://raw.githubusercontent.com/Ikarthikmb/VerilogFod/main/gates/basic_gates_waveform.png)
 
 - *AND:* Outputs HIGH when both inputs are HIGH.
 - *OR:* Outputs LOW when both inputs are LOW.

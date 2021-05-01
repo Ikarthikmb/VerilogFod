@@ -66,18 +66,21 @@ $ vvp a.out
 
 ---
 
-2. inverter
+*2. inverter*
 
 Block diagram | Timing diagram
 ---| ---
 ![](https://electricalacademia.com/wp-content/uploads/2018/03/NOT-Gate.png)	| ![inverter waveform image](https://raw.githubusercontent.com/Ikarthikmb/VerilogFod/main/inverter/inverter_tb_wave.png)
+[Code link](https://github.com/Ikarthikmb/VerilogFod/blob/main/inverter/inverter.v)	|
+
 In digital logic, an inverter or NOT gate is a logic gate which implements logical negation. 
 
-3. basic gates
+*4. basic gates*
 
 Schematic Diagram	| Timing 
 --- | ---
 ![](https://2.bp.blogspot.com/_I5fPUj_jtvI/SdWBWD7mW6I/AAAAAAAAACI/g2jDvqQQ-WE/w1200-h630-p-k-no-nu/BasicGates.png)	| ![basic gates waveform image](https://raw.githubusercontent.com/Ikarthikmb/VerilogFod/main/gates/basic_gates_waveform.png)
+[Code link](https://github.com/Ikarthikmb/VerilogFod/blob/main/gates/basic_gates.v)	| 
 
 - *AND:* Outputs HIGH when both inputs are HIGH.
 - *OR:* Outputs LOW when both inputs are LOW.
@@ -93,6 +96,9 @@ Schematic Diagram	| Timing
 1 to 2 line decoder diagram | timing wave
 --- | ---
 ![](https://www.allaboutcircuits.com/uploads/articles/line-decoder-where-a-is-the-address-and-d-is-the-dataline.jpg) | ![](https://raw.githubusercontent.com/Ikarthikmb/VerilogFod/main/line_decoder/line_decoder_wave.png)
+[1 to 2 line decoder Code](https://github.com/Ikarthikmb/VerilogFod/blob/main/line_decoder/1to2_line_decoder.v)	| 
 ---| ---
-2 to 4 line decoder | Timing wave
+*2 to 4 line decoder* | *Timing wave*
 ![](https://www.allaboutcircuits.com/uploads/articles/2-to-4-line-coder-diagram-1.jpg)	| [timing]
+[2 to 4 line decoder Code](https://github.com/Ikarthikmb/VerilogFod/blob/main/line_decoder/line_decoder_2to4.v)	| 
+

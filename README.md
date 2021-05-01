@@ -66,21 +66,21 @@ $ vvp a.out
 
 ---
 
-*2. inverter*
+**2. inverter**
 
 Block diagram | Timing diagram
 ---| ---
 ![](https://electricalacademia.com/wp-content/uploads/2018/03/NOT-Gate.png)	| ![inverter waveform image](https://raw.githubusercontent.com/Ikarthikmb/VerilogFod/main/inverter/inverter_tb_wave.png)
-[Code link](https://github.com/Ikarthikmb/VerilogFod/blob/main/inverter/inverter.v)	|
+[Inverter Code](https://github.com/Ikarthikmb/VerilogFod/blob/main/inverter/inverter.v)	|
 
 In digital logic, an inverter or NOT gate is a logic gate which implements logical negation. 
 
-*4. basic gates*
+**4. basic gates**
 
 Schematic Diagram	| Timing 
 --- | ---
 ![](https://2.bp.blogspot.com/_I5fPUj_jtvI/SdWBWD7mW6I/AAAAAAAAACI/g2jDvqQQ-WE/w1200-h630-p-k-no-nu/BasicGates.png)	| ![basic gates waveform image](https://raw.githubusercontent.com/Ikarthikmb/VerilogFod/main/gates/basic_gates_waveform.png)
-[Code link](https://github.com/Ikarthikmb/VerilogFod/blob/main/gates/basic_gates.v)	| 
+[Code](https://github.com/Ikarthikmb/VerilogFod/blob/main/gates/basic_gates.v)	| 
 
 - *AND:* Outputs HIGH when both inputs are HIGH.
 - *OR:* Outputs LOW when both inputs are LOW.
@@ -89,9 +89,9 @@ Schematic Diagram	| Timing
 - *XOR:* Outputs LOW when both the inputs are same.
 - *XNOR:* Outputs HIGH when both inputs are same.
 
-5. Line Decoder
-	- 1 to 2 Line decoder
-	- 2 to 4 line decoder
+**5. Line Decoder**
+- 1 to 2 Line decoder
+- 2 to 4 line decoder
 
 1 to 2 line decoder diagram | timing wave
 --- | ---

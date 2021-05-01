@@ -60,6 +60,9 @@ $ vvp a.out
 2. inverter.v
 3. functions.v
 4. basic_gates.v
+5. Line Decoder
+	- 1 to 2 Line decoder
+	- 2 to 4 line decoder
 
 ---
 

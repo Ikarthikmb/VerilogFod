@@ -75,16 +75,20 @@ In digital logic, an inverter or NOT gate is a logic gate which implements logic
 
 ![basic gates waveform image](https://raw.githubusercontent.com/Ikarthikmb/VerilogFod/main/gates/basic_gates_waveform.png)
 
-AND: Outputs HIGH when both inputs are HIGH.
+- *AND:* Outputs HIGH when both inputs are HIGH.
+- *OR:* Outputs LOW when both inputs are LOW.
+- *NAND:* Outputs LOW when both inputs are HIGH.
+- *NOR:* Outputs HIGH when both inputs are LOW.
+- *XOR:* Outputs LOW when both the inputs are same.
+- *XNOR:* Outputs HIGH when both inputs are same.
 
-OR: Outputs LOW when both inputs are LOW.
+5. Line Decoder
+	- 1 to 2 Line decoder
+	- 2 to 4 line decoder
 
-NAND: Outputs LOW when both inputs are HIGH.
-
-NOR: Outputs HIGH when both inputs are LOW.
-
-XOR: Outputs LOW when both the inputs are same.
-
-XNOR: Outputs HIGH when both inputs are same.
-
- 
+1 to 2 line decoder diagram | timing wave
+--- | ---
+[](https://www.allaboutcircuits.com/uploads/articles/line-decoder-where-a-is-the-address-and-d-is-the-dataline.jpg) | [](https://raw.githubusercontent.com/Ikarthikmb/VerilogFod/main/line_decoder/line_decoder_wave.png)
+---| ---
+2 to 4 line decoder | Timing wave
+[](https://www.allaboutcircuits.com/uploads/articles/2-to-4-line-coder-diagram-1.jpg)	| [timing]

@@ -88,7 +88,7 @@ In digital logic, an inverter or NOT gate is a logic gate which implements logic
 
 1 to 2 line decoder diagram | timing wave
 --- | ---
-[](https://www.allaboutcircuits.com/uploads/articles/line-decoder-where-a-is-the-address-and-d-is-the-dataline.jpg) | [](https://raw.githubusercontent.com/Ikarthikmb/VerilogFod/main/line_decoder/line_decoder_wave.png)
+![](https://www.allaboutcircuits.com/uploads/articles/line-decoder-where-a-is-the-address-and-d-is-the-dataline.jpg) | ![](https://raw.githubusercontent.com/Ikarthikmb/VerilogFod/main/line_decoder/line_decoder_wave.png)
 ---| ---
 2 to 4 line decoder | Timing wave
-[](https://www.allaboutcircuits.com/uploads/articles/2-to-4-line-coder-diagram-1.jpg)	| [timing]
+![](https://www.allaboutcircuits.com/uploads/articles/2-to-4-line-coder-diagram-1.jpg)	| [timing]

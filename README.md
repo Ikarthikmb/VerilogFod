@@ -1,16 +1,18 @@
 # Verilog Codes
 
 # Contents:
-1. [Steps to Install Icarus Verilog and GTKWave](#head)
+1. Steps to Install Icarus Verilog and GTKWave
 2. How to edit and run the code with Icarus Verilog
 3. List of Programs
+
+---
 
 In this repo, I shall be using the open-source tools like iverilog for compiling the verilog code and gtk wave for observing timing diagrams.
 
 **Icarus verilog** is a open-source verilog simulation and synthesis tool. It operates as a compiler, compiling source code written in Verilog (IEEE-1364) into some target format. For batch simulation, the compiler can generate an intermediate form called vvp assembly. This intermediate form is executed by the `vvp` command. For synthesis, the compiler generates netlists in the desired format. (_visit [Icarus Verilog](http://iverilog.icarus.com/) for more information_)
 
 
-## (Steps to Install Icarus Verilog and GTKWave){#head1}
+## Steps to Install Icarus Verilog and GTKWave
 
 Open the terminal and follow through the steps for the installtion of icarus verilog and gtkwave. Initially `team-electronics` package has to be added to the current packages. Do
 ```

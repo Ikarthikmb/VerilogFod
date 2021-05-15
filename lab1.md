@@ -1,4 +1,9 @@
-# Lab 1 Examples
+## Contents
+
+1. Half Adder
+2. Full Adder
+3. 2:1 Multiplexer
+4. Ripple Carry Adder
 
 ## Half Adder
 - RTL for half adder

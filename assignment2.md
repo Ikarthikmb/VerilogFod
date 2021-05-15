@@ -1,4 +1,4 @@
-# Assignment 2 (Data Types)
+# Code Questions on Data Types
 
 **1. What is the value of y in binary format in below snippet?**
 ```

@@ -1,8 +1,12 @@
-# Projects on Verilog
+## Contents
 
-## 11 May 2021:
 1. Write and RTL description and test bench fo a D flipflop.
 2. Write structural model for T flipflop using D flipflop
+3. Write an RTL description for JK flip flop using parameter declaration for the respecticve scenarious HOLD, SET, RESERT, TOGGLE.
+4. Implement SR latch in gate level modelling and verify using testbench
+5. Write an RTL and testbench for 4 bit SISO
+
+***
 
 > ## D Flipflop
 
@@ -107,12 +111,7 @@ module tff(
 
 endmodule
 ```
-
-## 12 May 2021
-
-1) Write an RTL description for JK flip flop using parameter declaration for the respecticve scenarious HOLD, SET, RESERT, TOGGLE.
-2) Implement SR latch in gate level modelling and verify using testbench
-3) Write an RTL and testbench for 4 bit SISO
+***
 
 ```
 reg [3:0] next_state;
@@ -272,3 +271,4 @@ endmodule
 
 *** 
 
+Date: 11 May 2021

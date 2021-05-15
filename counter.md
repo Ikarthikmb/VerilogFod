@@ -1,9 +1,12 @@
-## 13 May 2021
+## Contents
+
 1. Write and RTL description for 4-bit loadable up counter and verify using testbench.
    1. Modify this for n-bit counter
-2. Write a RTL to design 4-bit mod12 loadable up counter and verify using testbench.
-3. Write and RTL design 4-bit loadable binary synchronous up down counter.
+<!--2. Write a RTL to design 4-bit mod12 loadable up counter and verify using testbench.
+3. Write and RTL design 4-bit loadable binary synchronous up down counter.-->
 4. Write an RTL and testbench for SISO.
+
+*** 
 
 > # 2. Synchronous UP Counter
 
@@ -105,3 +108,7 @@ module siso_tb();
 
 endmodule
 ```
+
+***
+
+Date: 13 May 2021

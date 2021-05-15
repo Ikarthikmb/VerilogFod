@@ -1,4 +1,4 @@
-# VerilogHDL | Assignment 3 (Operators)
+# Code Questions on Operators
 
 **1. What is the value of y in the below snippet?**
 ```

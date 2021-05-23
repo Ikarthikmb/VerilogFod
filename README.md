@@ -1,4 +1,4 @@
-# Verilog Codes
+# Open Source Tools to Get Started With Verilog Simulation
 
 # Contents:
 1. Steps to Install Icarus Verilog and GTKWave

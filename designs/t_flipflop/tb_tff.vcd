@@ -1,0 +1,64 @@
+$date
+	Sat Nov 27 19:14:20 2021
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb_tff $end
+$var wire 1 ! o_qbar $end
+$var wire 1 " o_q $end
+$var reg 1 # clk $end
+$var reg 2 $ i [1:0] $end
+$var reg 1 % i_t $end
+$scope module TFLIPFLOP $end
+$var wire 1 # clk $end
+$var wire 1 % i_t $end
+$var wire 1 ! o_qbar $end
+$var reg 1 " o_q $end
+$var reg 1 & o_qn $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0&
+0%
+b0 $
+0#
+0"
+1!
+$end
+#5
+b1 $
+1#
+#10
+b10 $
+0#
+#15
+0!
+1"
+b11 $
+1%
+1#
+#20
+b0 $
+0#
+#25
+b1 $
+0%
+1#
+#30
+b10 $
+0#
+#35
+1!
+0"
+b11 $
+1%
+1#
+#40
+b0 $
+0#

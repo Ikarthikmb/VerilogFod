@@ -1,0 +1,3 @@
+[submodule "designs/t_flipflop/VerilogFod"]
+	path = designs/t_flipflop/VerilogFod
+	url = https://github.com/Ikarthikmb/VerilogFod.git

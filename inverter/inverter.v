@@ -17,7 +17,7 @@ module inverter_tb();
 
   initial begin
     $monitor("a=%d, y=%d", a, y); // Monitoring output
-    $dumpvars("inverter.vcd);     // storing generated values in vsd file
+    $dumpvars("inverter.vcd");     // storing generated values in vsd file
     $dumpvars(0, inverter);
   end
 endmodule

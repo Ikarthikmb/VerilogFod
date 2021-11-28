@@ -82,8 +82,8 @@ endmodule
 ```
 reg [13*8:1]s;
 initial begin
-    s = "maven silicon";
+    s = "riscv core";
     $display("Value = %s, s[104:65]);
 end
 ```
-> Ans: maven
+> Ans: riscv

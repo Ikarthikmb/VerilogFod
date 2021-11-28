@@ -17,10 +17,10 @@ module binary_adder_tree(A, B, C, D, E, clk, out);
 		end
 
 	// 2-bit additions
-	assign 			  sum1 = A + B;
-	assign 			  sum2 = C + D;
-	assign 			  sum3 = sumreg1 + sumreg2;
-	assign 			  sum4 = sumreg3 + E;		  		
-	assign 			  out = sumreg4;
+	assign		sum1 = A + B;
+	assign		sum2 = C + D;
+	assign		sum3 = sumreg1 + sumreg2;
+	assign		sum4 = sumreg3 + E;		  		
+	assign		out = sumreg4;
 
 endmodule

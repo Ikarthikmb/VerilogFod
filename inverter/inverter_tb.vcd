@@ -1,5 +1,5 @@
 $date
-	Tue Apr  6 10:56:35 2021
+	Mon Nov 29 12:07:58 2021
 $end
 $version
 	Icarus Verilog
@@ -7,9 +7,13 @@ $end
 $timescale
 	1s
 $end
-$scope module inverter $end
+$scope module inverter_tb $end
 $var wire 1 ! y $end
 $var reg 1 " a $end
+$scope module INVERTER $end
+$var wire 1 " a $end
+$var wire 1 ! y $end
+$upscope $end
 $upscope $end
 $enddefinitions $end
 #0
@@ -27,23 +31,5 @@ $end
 0!
 1"
 #40
-1!
-0"
-#50
-0!
-1"
-#60
-1!
-0"
-#70
-0!
-1"
-#80
-1!
-0"
-#90
-0!
-1"
-#100
 1!
 0"

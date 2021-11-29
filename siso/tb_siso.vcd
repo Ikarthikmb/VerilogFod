@@ -1,0 +1,108 @@
+$date
+	Sun Nov 28 13:48:48 2021
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb_siso $end
+$var wire 1 ! r_d2 $end
+$var wire 1 " r_d1 $end
+$var wire 1 # r_d0 $end
+$var wire 1 $ o_siso $end
+$var reg 1 % i_clk $end
+$var reg 1 & i_d $end
+$var reg 1 ' i_rst $end
+$var reg 4 ( pattern [3:0] $end
+$var integer 32 ) i [31:0] $end
+$scope module SISO $end
+$var wire 1 % i_clk $end
+$var wire 1 & i_d $end
+$var wire 1 ' i_rst $end
+$var wire 1 $ o_siso $end
+$var reg 1 # r_d0 $end
+$var reg 1 " r_d1 $end
+$var reg 1 ! r_d2 $end
+$var reg 1 * r_d3 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+x*
+b0 )
+b1101 (
+1'
+0&
+1%
+x$
+0#
+x"
+x!
+$end
+#5
+0%
+#10
+0"
+1#
+1%
+b1 )
+1&
+#15
+0%
+#20
+0!
+1"
+0#
+1%
+b10 )
+0&
+#25
+0%
+#30
+0$
+0*
+1!
+0"
+1#
+1%
+b11 )
+1&
+#35
+0%
+#40
+1$
+1*
+0!
+1"
+1%
+b100 )
+#45
+0%
+#50
+0$
+0*
+1!
+0#
+1%
+0&
+#55
+0%
+#60
+1$
+1*
+0"
+1%
+#65
+0%
+#70
+0!
+1%
+#75
+0%
+#80
+0$
+0*
+1%

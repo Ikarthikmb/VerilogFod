@@ -13,7 +13,8 @@ module pattern_recognition(
   input               srst_n;
   input               din;
 
-  output logic [15:0] counter;
+  // output logic [15:0] counter;	// for .sv
+  output reg [15:0] counter;
   reg [1:0] state, next;
   
   always@(posedge clk) begin
